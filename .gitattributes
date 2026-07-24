@@ -12,3 +12,4 @@ module_1/module_1.zip filter=lfs diff=lfs merge=lfs -text
 module_2/module_2.zip filter=lfs diff=lfs merge=lfs -text
 module_5/Module[[:space:]]5[[:space:]]-[[:space:]]Adversarial[[:space:]]Attacks[[:space:]]and[[:space:]]Defenses/Lab/samples200.zip filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+module_5/module_05.zip filter=lfs diff=lfs merge=lfs -text
